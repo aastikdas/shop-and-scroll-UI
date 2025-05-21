@@ -1,0 +1,878 @@
+[
+  {
+    "id":1,
+    "category": "Accessories",
+    
+  "products": [
+    {
+      "id": 1,
+      "name": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE CLS 2S SAPPHIRE BLUE-Z, Blue,2023 Model)",
+      "price": "11,790",
+      "size": ["S", "M", "L"],
+      "colors": ["red", "blue"],
+      "image": "assets/Kitchen/image (1).webp",
+      "description": "A compact and energy-efficient refrigerator perfect for small families. The Sapphire Blue finish adds elegance to any kitchen.",
+      "highlights": ["2 Star energy rating", "Large 184 L capacity", "Modern Sapphire Blue design"],
+      "specifications": {
+        "Model": "205 WDE CLS 2S",
+        "Year": "2023",
+        "Cooling Type": "Direct Cool"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Daikin 1.5 Ton 3 Star Inverter Split AC (Copper, PM 2.5 Filter, Triple Display, Dew Clean Technology, Coanda Airflow)",
+      "price": "36,499",
+      "size": ["10L", "20L", "30L"],
+      "colors": ["Silver", "Black", "Brown"],
+      "image": "assets/Kitchen/image (2).webp",
+      "description": "Efficient cooling with Daikin’s Inverter technology. Triple Display and Coanda airflow ensure comfortable air distribution.",
+      "highlights": ["1.5 Ton cooling capacity", "PM 2.5 filter included", "Copper condenser for durability"],
+      "specifications": {
+        "Star Rating": "3 Star",
+        "Technology": "Dew Clean, Inverter",
+        "Display": "Triple Digital"
+      }
+    },
+    {
+      "id": 3,
+      "name": "12FOR COLLECTION Stainless Steel 2 Tier Countertop Kitchen Rack|Pantry Storage Organizer | Multipurpose",
+      "price": "269",
+      "size": [],
+      "colors": [],
+      "image": "assets/Kitchen/image (3).webp",
+      "description": "A space-saving two-tier rack made from high-quality stainless steel for efficient kitchen organization.",
+      "highlights": ["Stainless steel body", "Rust-resistant", "Multipurpose countertop use"],
+      "specifications": {
+        "Tiers": "2",
+        "Material": "Stainless Steel",
+        "Use": "Countertop, Pantry"
+      }
+    },
+    {
+      "id": 4,
+      "name": "klick n Shop Silicone Kitchen Spatula and Utensils Spoon Set Cooking + Baking Set- 12 Pcs Non-Stick with Wooden",
+      "price": "890",
+      "size": [],
+      "colors": [],
+      "image": "assets/Kitchen/image (4).webp",
+      "description": "12-piece premium kitchen utensil set with silicone heads and wooden handles for safe and stylish cooking.",
+      "highlights": ["Non-stick friendly", "Heat resistant silicone", "Includes 12 essential utensils"],
+      "specifications": {
+        "Material": "Silicone + Wood",
+        "Items Included": "12",
+        "Heat Resistance": "Up to 230°C"
+      }
+    },
+    {
+      "id": 5,
+      "name": "LG 242 L 3 Star Smart Inverter Frost-Free Double Door Refrigerator (GL-I292RPZX, Shiny Steel, Door Cooling+)",
+      "price": "25,990",
+      "size": ["S", "M", "L"],
+      "colors": ["Silver", "Black", "Brown"],
+      "image": "assets/Kitchen/image (5).webp",
+      "description": "A smart inverter refrigerator with frost-free technology and door cooling+ for uniform freshness.",
+      "highlights": ["Smart inverter compressor", "Door Cooling+ feature", "3 Star energy rating"],
+      "specifications": {
+        "Capacity": "242 L",
+        "Type": "Double Door",
+        "Model": "GL-I292RPZX"
+      }
+    },
+    {
+      "id": 6,
+      "name": "WSamsung 28L, Convection Microwave Oven with Curd Making(MC28A5013AK/TL, Black, 10 Yr warranty)",
+      "price": "5,790",
+      "size": ["S", "M", "L"],
+      "colors": ["Silver", "blue", "Yellow"],
+      "image": "assets/Kitchen/image (6).webp",
+      "description": "28L convection microwave with multiple cooking modes and unique curd making feature.",
+      "highlights": ["Convection and grill mode", "Curd making function", "10-year warranty on magnetron"],
+      "specifications": {
+        "Capacity": "28L",
+        "Model": "MC28A5013AK/TL",
+        "Color": "Black"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Hindware Smart Appliances | Skyla Neo 90 cm Chimney | 1350 CMH | Auto Clean | Slant Design | Filterless | Touch",
+      "price": "15,990",
+      "size": ["S", "M", "L"],
+      "colors": ["Black", "Blue"],
+      "image": "assets/Kitchen/image (7).webp",
+      "description": "Filterless 90cm chimney with auto-cleaning and slant design for modern modular kitchens.",
+      "highlights": ["Auto-clean technology", "High suction power (1350 CMH)", "Filterless and touch control"],
+      "specifications": {
+        "Suction": "1350 CMH",
+        "Size": "90 cm",
+        "Control Type": "Touch Panel"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Pigeon Favourite 7 Piece Gift Set Non-Stick Coated Comes with Fry Pan, Kadhai, Lid, Sauce Pan, Spatula, Tadka Pa",
+      "price": "1,249",
+      "size": ["Not Available"],
+      "colors": [],
+      "image": "assets/Kitchen/image (8).webp",
+      "description": "Complete kitchen starter non-stick cookware set ideal for gifting and everyday use.",
+      "highlights": ["Non-stick coating", "7-piece kitchen set", "Ideal gift for new kitchens"],
+      "specifications": {
+        "Coating": "Non-stick",
+        "Items Included": "Fry Pan, Kadhai, Lid, Saucepan, Spatula, Tadka Pan",
+        "Brand": "Pigeon"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Slyford 500ml 2 in 1 Olive Oil Sprayer and Oil Dispenser Bottle for Kitchen, Glass Oil Bottle with Premium Nozzle",
+      "price": "279",
+      "size": ["S", "M", "L"],
+      "colors": ["red", "blue"],
+      "image": "assets/Kitchen/image (9).webp",
+      "description": "Premium glass bottle that functions as both oil sprayer and dispenser for precision and convenience.",
+      "highlights": ["2-in-1 Sprayer + Dispenser", "Premium spray nozzle", "500ml glass capacity"],
+      "specifications": {
+        "Material": "Glass",
+        "Capacity": "500ml",
+        "Use": "Oil/Vinegar Sprayer"
+      }
+    },
+    {
+      "id": 10,
+      "name": "GLUN Waterproof Cotton Kitchen Apron with Front Pocket (Multicolour) Set of 2",
+      "price": "138",
+      "size": ["S", "M", "L"],
+      "colors": ["red", "blue", "Green", "Purple"],
+      "image": "assets/Kitchen/image (10).webp",
+      "description": "Waterproof cotton aprons with front pockets to keep kitchen essentials handy and clothes safe.",
+      "highlights": ["Set of 2 aprons", "Waterproof and durable cotton", "Front utility pocket"],
+      "specifications": {
+        "Material": "Cotton",
+        "Features": "Waterproof, Pocket",
+        "Quantity": "2 Aprons"
+      }
+    }
+  ]
+
+
+  },
+  {
+    "id":2,
+    "category": "Laptop & Electronics",
+     
+  "products": [
+    {
+      "id": 1,
+      "name": "EDYELL Bluetooth in Ear Earphones with Earhooks, Wireless Earbuds with Noise Cancelling Mic, 50H Playback",
+      "price": "1,599",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/1.webp",
+      "description": "Enjoy wireless freedom with EDYELL Bluetooth Earphones, designed with secure-fit earhooks, noise-cancelling mic, and extended 50-hour playback for all-day performance.",
+      "highlights": [
+        "Secure-fit earhooks for active use",
+        "Advanced noise-cancelling mic",
+        "Up to 50 hours playback time",
+        "Sweat and water resistant",
+        "Bluetooth 5.1 for stable connection"
+      ],
+      "specifications": {
+        "Connectivity": "Bluetooth 5.1",
+        "Playback Time": "50 hours",
+        "Microphone": "Built-in Noise Cancelling",
+        "Water Resistance": "IPX5",
+        "Charging Port": "Type-C"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Portronics Bridge Y USB 3.0 to Type C OTG Adaptor, 10Gbps High Speed Data Transfer, Thunderbolt to USB Adapter,",
+      "price": "109",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/2.webp",
+      "description": "Compact and durable, the Portronics Bridge Y OTG Adapter offers lightning-fast data transfer and wide compatibility between USB and Type-C devices.",
+      "highlights": [
+        "Supports up to 10Gbps transfer speed",
+        "Compatible with USB-C and Thunderbolt ports",
+        "Plug and play, no drivers required",
+        "Durable aluminum casing",
+        "Ultra-portable design"
+      ],
+      "specifications": {
+        "Type": "USB 3.0 to Type-C",
+        "Speed": "10Gbps",
+        "Material": "Aluminum Alloy",
+        "Compatibility": "MacBook, Laptops, Smartphones",
+        "Plug & Play": "Yes"
+      }
+    },
+    {
+      "id": 3,
+      "name": "XElectron iProjector 2 Plus Auto Focus Auto Keystone Smart Projector for Home | Native 1080P Full HD",
+      "price": "19,989",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/3.webp",
+      "description": "XElectron iProjector 2 Plus delivers a cinematic home theater experience with native 1080P resolution, smart connectivity, and auto-focus keystone correction.",
+      "highlights": [
+        "Native 1080P Full HD",
+        "Auto focus and auto keystone",
+        "Android OS with app support",
+        "Wi-Fi and Bluetooth connectivity",
+        "300-inch max screen size"
+      ],
+      "specifications": {
+        "Resolution": "1920x1080",
+        "Display": "LCD with LED",
+        "Projection Size": "50 to 300 inches",
+        "Smart OS": "Android",
+        "Ports": "HDMI, USB, Audio Out"
+      }
+    },
+    {
+      "id": 4,
+      "name": "REDTIGER Dash Cam Acc Multi-Size Hardwire Kit with Voltage Indicator for F9/F17/F77/F4/F7N Series",
+      "price": "2,590",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/4.webp",
+      "description": "Keep your dash cam powered safely with REDTIGER’s multi-size hardwire kit featuring built-in voltage indicators to protect your car’s battery.",
+      "highlights": [
+        "Supports multiple REDTIGER models",
+        "Built-in voltage indicator",
+        "24/7 parking mode support",
+        "Multiple fuse sizes included",
+        "Over-voltage protection"
+      ],
+      "specifications": {
+        "Compatibility": "F9, F17, F77, F4, F7N",
+        "Input Voltage": "12V-24V",
+        "Output": "5V/2A",
+        "Cable Length": "3.5 meters",
+        "Fuse Types": "Mini, Low-Profile Mini, ATO"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Noise Power Series 100W GaN Charger: Super Fast Charging Adapter, 4 Ports (3 USB-C Type, 1 USB-A),",
+      "price": "799",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/5.webp",
+      "description": "Charge all your devices rapidly with Noise Power Series 100W GaN charger featuring 4 ports and GaN tech for maximum efficiency and compact design.",
+      "highlights": [
+        "100W super fast charging",
+        "GaN technology for high efficiency",
+        "3 USB-C and 1 USB-A ports",
+        "Compact and travel-friendly",
+        "Wide compatibility with laptops, tablets, and phones"
+      ],
+      "specifications": {
+        "Total Output": "100W",
+        "Ports": "3x USB-C, 1x USB-A",
+        "Technology": "Gallium Nitride (GaN)",
+        "Input Voltage": "100V-240V",
+        "Safety": "Overcurrent & overvoltage protection"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Anker Power Bank, 20,000mAh with Built-in USB-C Cable, 87W Max Fast Charging (PowerCore 20K for Laptop)",
+      "price": "5,498",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/6.webp",
+      "description": "Power your devices on the go with Anker’s 20,000mAh power bank, supporting up to 87W fast charging and built-in USB-C cable for laptops and more.",
+      "highlights": [
+        "20,000mAh high-capacity battery",
+        "87W fast charging output",
+        "Built-in USB-C cable",
+        "Charge laptops, tablets, and phones",
+        "Premium Anker safety features"
+      ],
+      "specifications": {
+        "Battery Capacity": "20,000mAh",
+        "Output Power": "87W Max",
+        "Ports": "USB-C, USB-A",
+        "Cable": "Integrated USB-C",
+        "Dimensions": "6.5 x 3 x 1 inches"
+      }
+    },
+    {
+      "id": 7,
+      "name": "soundcore by Anker H30i Wireless On-Ear Headphones, Foldable Design, Pure Bass, 70H Playtime, Bluetooth 5.3,",
+      "price": "1,899",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/7.webp",
+      "description": "Enjoy crystal clear sound and long-lasting battery life with soundcore H30i headphones, equipped with Bluetooth 5.3 and pure bass technology.",
+      "highlights": [
+        "70-hour battery life",
+        "Bluetooth 5.3 for stable connection",
+        "Foldable and lightweight design",
+        "Rich bass with 40mm drivers",
+        "Comfortable ear cushions"
+      ],
+      "specifications": {
+        "Playtime": "70 hours",
+        "Connectivity": "Bluetooth 5.3",
+        "Driver Size": "40mm",
+        "Design": "On-Ear, Foldable",
+        "Charging": "USB-C Fast Charge"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Apple 2024 MacBook Pro Laptop with M4 Max chip with 14‑core CPU and 32‑core GPU: Built for Apple Intelligence",
+      "price": "2,99,599",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/8.webp",
+      "description": "The most powerful MacBook ever. Apple MacBook Pro with M4 Max delivers unparalleled performance, AI capability, and stunning visuals in a sleek design.",
+      "highlights": [
+        "M4 Max chip with 14‑core CPU, 32‑core GPU",
+        "Optimized for Apple Intelligence features",
+        "Stunning Liquid Retina XDR display",
+        "All-day battery life",
+        "Advanced thermal management"
+      ],
+      "specifications": {
+        "Processor": "Apple M4 Max",
+        "CPU": "14-core",
+        "GPU": "32-core",
+        "Display": "14.2\" Liquid Retina XDR",
+        "Battery Life": "Up to 18 hours"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Tecno POP 9 5G Aurora Cloud, 4GB+128GB| Segment's 1st 48MP Sony AI Camera| Segment's 1st 5G with NFC |",
+      "price": "8,999",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/9.webp",
+      "description": "Tecno POP 9 brings you blazing-fast 5G, a Sony 48MP AI camera, and massive storage – all packed into a stylish, budget-friendly smartphone.",
+      "highlights": [
+        "5G connectivity with NFC support",
+        "48MP Sony AI main camera",
+        "4GB RAM and 128GB storage",
+        "6.6\" HD+ Display",
+        "Android 13 (Go Edition)"
+      ],
+      "specifications": {
+        "RAM": "4GB",
+        "Storage": "128GB",
+        "Camera": "48MP Sony AI",
+        "Network": "5G + NFC",
+        "Battery": "5000mAh"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Spigen Ultra Hybrid for Nothing Phone (2) Case, Transparent Nothing Phone (2) Back Cover ",
+      "price": "1,199",
+      "size": [],
+      "colors": [],
+      "image": "assets/Laptop & Electronics/10.webp",
+      "description": "Show off the original design of your Nothing Phone (2) while keeping it safe with Spigen's Ultra Hybrid case featuring reinforced corners and crystal clarity.",
+      "highlights": [
+        "Crystal-clear hybrid design",
+        "Shock-absorbing bumper protection",
+        "Compatible with wireless charging",
+        "Tactile buttons and precise cutouts",
+        "Raised bezels for camera and screen protection"
+      ],
+      "specifications": {
+        "Material": "TPU + Polycarbonate",
+        "Compatibility": "Nothing Phone (2)",
+        "Wireless Charging": "Yes",
+        "Protection": "Shock Absorption, Scratch Resistance",
+        "Design": "Transparent Back"
+      }
+    }
+  ]
+
+
+  },
+  {
+    "id":3,
+    "category": "Kids",
+    
+  "products": [
+    {
+      "id": 1,
+      "name": "Nautinati Girls Embellished Ruffle Sleeve Dress |Sequined",
+      "price": "899",
+      "size": ["S", "M", "L"],
+      "colors": ["red", "blue"],
+      "image": "assets/kids/1.webp",
+      "description": "A stylish ruffle sleeve dress with sequin detailing perfect for parties or festive wear for young girls.",
+      "highlights": [
+        "Elegant ruffle sleeves",
+        "Sequin embellishments",
+        "Comfortable fabric for kids",
+        "Perfect for special occasions",
+        "Available in red and blue"
+      ],
+      "specifications": {
+        "Material": "Cotton blend with sequins",
+        "Sleeve Type": "Ruffle",
+        "Fit": "Regular",
+        "Age Group": "2–8 years",
+        "Care": "Hand wash recommended"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Kidbea 100% Linen Shirt & Pant Co-ord Set for Kids | Elegant &",
+      "price": "499",
+      "size": ["10L", "20L", "30L"],
+      "colors": ["Silver", "Black", "Brown"],
+      "image": "assets/kids/2.webp",
+      "description": "Breathable and stylish linen co-ord set for kids, combining comfort and elegance for casual and festive occasions.",
+      "highlights": [
+        "100% linen material",
+        "Comes with matching shirt and pants",
+        "Available in multiple elegant colors",
+        "Soft and skin-friendly fabric",
+        "Perfect for summer wear"
+      ],
+      "specifications": {
+        "Material": "100% Linen",
+        "Set Includes": "Shirt and Pant",
+        "Fit": "Relaxed",
+        "Age Group": "2–10 years",
+        "Wash Care": "Machine washable"
+      }
+    },
+    {
+      "id": 3,
+      "name": "StarAndDaisy MDF Board, ABS Plastic Adjustable Height, Multi-Functional",
+      "price": "15,999",
+      "size": [],
+      "colors": [],
+      "image": "assets/kids/3.webp",
+      "description": "An ergonomic and multi-functional study desk and chair set for kids with adjustable height and durable build.",
+      "highlights": [
+        "Adjustable height for growing kids",
+        "Made with high-quality MDF and ABS plastic",
+        "Includes chair, desk, and storage",
+        "Ideal for study, drawing, and play",
+        "Stable and safe design"
+      ],
+      "specifications": {
+        "Material": "MDF Board + ABS Plastic",
+        "Adjustable Height": "Yes",
+        "Includes": "Desk and Chair",
+        "Recommended Age": "3–12 years",
+        "Assembly": "Required"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Real Basics Boys Cotton Hooded Neck Hoodie (RB-BoyHood-P1-all-910-",
+      "price": "490",
+      "size": [],
+      "colors": [],
+      "image": "assets/kids/4.webp",
+      "description": "Cozy cotton hoodie for boys featuring a comfortable hooded neck design for everyday casual wear.",
+      "highlights": [
+        "Soft and breathable cotton",
+        "Hooded neck for extra warmth",
+        "Stylish and simple design",
+        "Great for casual outings",
+        "Machine washable"
+      ],
+      "specifications": {
+        "Material": "100% Cotton",
+        "Neck Type": "Hooded",
+        "Closure": "Pullover",
+        "Fit": "Regular",
+        "Ideal For": "Boys aged 4–10"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Amazon Brand - Solimo Garden Penguin Slide with Basketball for Indoor & Outdoor Use | for Kids 2-4",
+      "price": "1,790",
+      "size": ["S", "M", "L"],
+      "colors": ["Silver", "Black", "Brown"],
+      "image": "assets/kids/5.webp",
+      "description": "Fun and safe garden slide with an integrated basketball hoop, perfect for toddlers to play both indoors and outdoors.",
+      "highlights": [
+        "Penguin-themed playful design",
+        "Durable plastic construction",
+        "Basketball hoop included",
+        "Easy to assemble and store",
+        "Great for kids aged 2–4"
+      ],
+      "specifications": {
+        "Material": "Non-toxic Plastic",
+        "Recommended Age": "2–4 years",
+        "Usage": "Indoor & Outdoor",
+        "Weight Capacity": "Up to 30 kg",
+        "Features": "Slide + Basketball hoop"
+      }
+    },
+    {
+      "id": 6,
+      "name": "BLiSS HUES Bubble Blowing Helicopter Toy with Light - Machine Toys for Kids Ages 1-6 Kids - for Indoor & Outdoor",
+      "price": "745",
+      "size": ["S", "M", "L"],
+      "colors": ["Silver", "blue", "Yellow"],
+      "image": "assets/kids/6.webp",
+      "description": "Exciting helicopter toy that blows bubbles and lights up, providing fun and sensory engagement for young kids.",
+      "highlights": [
+        "Bubble-blowing mechanism",
+        "Colorful LED lights",
+        "Safe and fun for toddlers",
+        "Durable and lightweight build",
+        "Battery operated"
+      ],
+      "specifications": {
+        "Function": "Bubble blowing + Lighting",
+        "Material": "ABS Plastic",
+        "Recommended Age": "1–6 years",
+        "Battery": "Required (not included)",
+        "Use": "Indoor/Outdoor"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kids Water Bottle - Water Bottle for School - Sipper Water Bottle for Kids - Waterbottle for Girls and Boys,",
+      "price": "790",
+      "size": ["S", "M", "L"],
+      "colors": ["Black", "Blue"],
+      "image": "assets/kids/7.webp",
+      "description": "Leak-proof and stylish sipper water bottle designed for school-going kids, easy to use and carry daily.",
+      "highlights": [
+        "BPA-free and safe material",
+        "Sipper lid for spill-free drinking",
+        "Easy to carry and clean",
+        "Ideal for school or travel",
+        "Attractive design"
+      ],
+      "specifications": {
+        "Material": "Plastic (BPA-free)",
+        "Capacity": "500ml approx.",
+        "Lid Type": "Sipper",
+        "Leak Proof": "Yes",
+        "Recommended Age": "3+ years"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Sanghariyat English Magic Practice Copy Book For Pre-School Kids,Re-Usable Drawing,Alphabet,Numbers",
+      "price": "189",
+      "size": ["Not Available"],
+      "colors": [],
+      "image": "assets/kids/8.webp",
+      "description": "Reusable and eco-friendly magic copy book for pre-school kids to practice English alphabets, numbers, and drawing.",
+      "highlights": [
+        "Reusable magic ink pages",
+        "Includes alphabet, numbers, and drawing",
+        "Perfect for early learning",
+        "Encourages handwriting practice",
+        "Eco-friendly and mess-free"
+      ],
+      "specifications": {
+        "Pages": "Alphabets, Numbers, Drawing",
+        "Ink": "Magic disappearing ink",
+        "Age Group": "3–6 years",
+        "Reusability": "Yes",
+        "Includes": "1 pen, 4 books, 5 refills"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Saregama Carvaan Mini Kids - Pre-Loaded with Stories, Rhymes, Learnings, Mantras with Bluetooth/USB/Aux in-",
+      "price": "3,190",
+      "size": ["S", "M", "L"],
+      "colors": ["red", "blue"],
+      "image": "assets/kids/9.webp",
+      "description": "A fun and educational audio speaker pre-loaded with kids’ stories, rhymes, and learnings. Supports Bluetooth, USB, and AUX input.",
+      "highlights": [
+        "Pre-loaded with 300+ rhymes & stories",
+        "Bluetooth, USB & AUX support",
+        "Easy-to-use controls",
+        "Rechargeable battery",
+        "Compact and child-safe design"
+      ],
+      "specifications": {
+        "Connectivity": "Bluetooth, USB, AUX",
+        "Content": "300+ Kids Rhymes, Stories, Learnings",
+        "Battery Life": "Up to 5 hours",
+        "Age Group": "3–10 years",
+        "Speaker Type": "Mono"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Humming Bird Kid's 80 Pcs Big Mega Sized Blocks Toys Building and Construction Block Set for Children Boys",
+      "price": "138",
+      "size": [],
+      "colors": ["red", "blue", "Green", "Purple"],
+      "image": "assets/kids/10.webp",
+      "description": "Colorful and large-sized building block set that enhances kids' creativity and motor skills through hands-on play.",
+      "highlights": [
+        "80 big, easy-to-handle blocks",
+        "Enhances creativity and problem-solving",
+        "Bright, non-toxic colors",
+        "Ideal for group or solo play",
+        "Safe for toddlers and young children"
+      ],
+      "specifications": {
+        "Pieces": "80",
+        "Material": "Non-toxic plastic",
+        "Recommended Age": "2–6 years",
+        "Storage Box": "Included",
+        "Compatibility": "Standard block toys"
+      }
+    }
+  ]
+
+
+  },
+  {
+    "id":4,
+    "category": "Skin care & Beauty Products",
+    
+  "products": [
+    {
+      "id": 1,
+      "name": "Himalaya Purifying Neem Face Wash|Clinically proven to fight against acne and",
+      "price": 152,
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/1.webp",
+      "description": "Gentle face wash enriched with neem to purify skin and help fight acne-causing bacteria.",
+      "highlights": [
+        "Contains natural neem extract",
+        "Clinically proven for acne control",
+        "Suitable for all skin types",
+        "Removes excess oil and dirt",
+        "Gentle cleansing formula"
+      ],
+      "specifications": {
+        "Volume": "150 ml",
+        "Skin Type": "Oily and acne-prone",
+        "Formulation": "Gel-based",
+        "Use": "Daily",
+        "Paraben Free": "Yes"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Dermabay Skincare Combo 30 ML Retinol 0.2% Serum + 30 ML Anti-Ageing Elixir duo for",
+      "price": "1,484",
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/2.webp",
+      "description": "Powerful anti-ageing combo with Retinol and Elixir to reduce fine lines and improve skin texture.",
+      "highlights": [
+        "Retinol 0.2% for skin renewal",
+        "Anti-ageing elixir boosts collagen",
+        "Reduces wrinkles and fine lines",
+        "Lightweight and fast-absorbing",
+        "Suitable for sensitive skin"
+      ],
+      "specifications": {
+        "Serum Volume": "30 ml",
+        "Elixir Volume": "30 ml",
+        "Skin Type": "All, especially ageing skin",
+        "Usage": "Night time",
+        "Dermatologically Tested": "Yes"
+      }
+    },
+    {
+      "id": 3,
+      "name": "The Face Shop Rice & Ceramide Moisturizing Cream with Rice Extracts for Skin",
+      "price": "780",
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/3.webp",
+      "description": "Hydrating moisturizing cream with rice extracts and ceramides to nourish and brighten skin.",
+      "highlights": [
+        "Infused with rice extract and ceramide",
+        "Deep hydration and skin barrier repair",
+        "Light texture, non-greasy",
+        "Brightens dull skin",
+        "Suitable for daily use"
+      ],
+      "specifications": {
+        "Volume": "50 ml",
+        "Skin Type": "Dry to normal",
+        "Formulation": "Cream",
+        "Key Ingredients": "Rice extract, ceramide",
+        "Hypoallergenic": "Yes"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Gush Beauty Acne Pimple Patch | 20 Hydrocolloid Patches with Tea Tree Oil ",
+      "price": "399",
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/4.webp",
+      "description": "Effective acne patch with tea tree oil to heal pimples quickly and reduce inflammation.",
+      "highlights": [
+        "20 hydrocolloid patches per pack",
+        "Contains soothing tea tree oil",
+        "Reduces redness and swelling",
+        "Discreet and easy to apply",
+        "Protects acne from bacteria"
+      ],
+      "specifications": {
+        "Patch Count": 20,
+        "Active Ingredient": "Tea Tree Oil",
+        "Use": "Spot treatment",
+        "Waterproof": "Yes",
+        "Suitable For": "All skin types"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Beardo Ultimate Glow up Kit - Grooming kit for men | Ultra Glow Facewash | Ultra Glow",
+      "price": "616",
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/5.webp",
+      "description": "Complete grooming kit for men designed to give skin a natural ultra-glow with cleansing and moisturizing.",
+      "highlights": [
+        "Includes ultra-glow facewash and moisturizer",
+        "Brightens and evens skin tone",
+        "Hydrates skin without oiliness",
+        "Formulated for men’s skin",
+        "Free from harmful chemicals"
+      ],
+      "specifications": {
+        "Facewash Volume": "100 ml",
+        "Moisturizer Volume": "50 ml",
+        "Skin Type": "All skin types",
+        "Usage": "Daily",
+        "Paraben Free": "Yes"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Online Quality Store Combo of 12 Skin Care Products ,(Multani Mitti, Neem, Orange",
+      "price": "269",
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/6.webp",
+      "description": "Assorted combo of 12 natural skin care products including Multani Mitti, Neem, and Orange extracts for holistic skincare.",
+      "highlights": [
+        "Natural and herbal ingredients",
+        "Includes face packs, scrubs, and oils",
+        "Suitable for daily skincare routine",
+        "Targets acne, dullness, and oiliness",
+        "Affordable multi-product pack"
+      ],
+      "specifications": {
+        "Product Count": 12,
+        "Ingredients": "Multani Mitti, Neem, Orange, etc.",
+        "Suitable For": "All skin types",
+        "Use": "Varies per product",
+        "Packaging": "Combo pack"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Organic Netra Glycerine for Face |100% Pure & Natural Glycerine Liquid for Face,",
+      "price": "237",
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/7.webp",
+      "description": "Pure and natural glycerine liquid for deep skin hydration and to maintain moisture balance.",
+      "highlights": [
+        "100% pure and natural glycerine",
+        "Moisturizes and softens skin",
+        "Non-comedogenic and safe",
+        "Can be mixed with other skincare",
+        "Suitable for all skin types"
+      ],
+      "specifications": {
+        "Volume": "200 ml",
+        "Ingredients": "Pure glycerine",
+        "Skin Type": "All",
+        "Use": "Mix or apply directly",
+        "Storage": "Cool, dry place"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Swiss Beauty 24K Gold Lightweight Skin Care Serum | With Honey & Niacinamide",
+      "price": "299",
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/8.webp",
+      "description": "Lightweight serum enriched with 24K gold, honey, and niacinamide for radiant and youthful skin.",
+      "highlights": [
+        "Infused with real 24K gold flakes",
+        "Brightens and nourishes skin",
+        "Honey for hydration and soothing",
+        "Niacinamide to improve skin tone",
+        "Non-greasy and fast absorbing"
+      ],
+      "specifications": {
+        "Volume": "30 ml",
+        "Key Ingredients": "24K Gold, Honey, Niacinamide",
+        "Skin Type": "All",
+        "Use": "Day & Night",
+        "Cruelty Free": "Yes"
+      }
+    },
+    {
+      "id": 9,
+      "name": "The Face Shop Non-Sticky Transparent 3 in 1 Aloe Fresh Soothing gel for Skin, Body",
+      "price": "397",
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/9.webp",
+      "description": "Aloe vera based soothing gel that hydrates, cools, and refreshes skin and body without stickiness.",
+      "highlights": [
+        "Contains pure aloe vera extract",
+        "Multi-purpose: face, body, hair",
+        "Non-sticky and fast absorbing",
+        "Soothes irritation and sunburn",
+        "Suitable for all skin types"
+      ],
+      "specifications": {
+        "Volume": "250 ml",
+        "Ingredients": "Aloe Vera Extract",
+        "Skin Type": "All",
+        "Use": "Face, Body, Hair",
+        "Paraben Free": "Yes"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Mamaearth Beetroot Daily Glow Face Cream With Beetroot & Hyaluronic Acid -",
+      "price": "199",
+      "size": [],
+      "colors": [],
+      "image": "assets/Skin Care/10.webp",
+      "description": "Daily use face cream enriched with beetroot and hyaluronic acid to hydrate and brighten skin naturally.",
+      "highlights": [
+        "Beetroot for natural glow",
+        "Hyaluronic acid for deep hydration",
+        "Lightweight and non-greasy",
+        "Dermatologically tested",
+        "Suitable for all skin types"
+      ],
+      "specifications": {
+        "Volume": "50 ml",
+        "Key Ingredients": "Beetroot, Hyaluronic Acid",
+        "Skin Type": "All",
+        "Use": "Daily",
+        "Free From": "Parabens, Sulphates"
+      }
+    }
+  ]
+
+
+  }
+]

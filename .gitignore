@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Build output (if any)
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Tailwind CSS related cache (if any)
+.tailwindcache/
+.tailwind.config.js.backup
+
+# Environment files
+.env
+.env.*
+
+# Package lock file (optional if you want to exclude it)
+# Uncomment if you don't want to track this file
+# package-lock.json

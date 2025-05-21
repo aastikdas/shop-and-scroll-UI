@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.button-effect{
+    
+     @apply  transition-all px-3 py-1
+}
+
+.button-effect:hover{
+    @apply cursor-pointer bg-slate-300 font-semibold rounded-lg 
+}
+
+.mouse:hover{
+    @apply cursor-pointer
+}
