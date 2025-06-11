@@ -13,55 +13,58 @@ fetch('product.json')
 
             const heading = document.createElement('h2');
             heading.textContent = section.category;
-            heading.className = `text-4xl heading font-bold mx-10 my-2 text-red-800 ${heading.textContent.split(' ')[0]}`
+            heading.className = `md:text-4xl text-2xl heading font-bold mx-4 md:mx-10 my-2 text-red-800 ${heading.textContent.split(' ')[0]}`
 
             categoryDiv.appendChild(heading)
 
             const Productsdiv = document.createElement('div');
-            Productsdiv.className = 'productDiv flex overflow-x-scroll w-full  '
+            Productsdiv.className = 'productDiv w-[98vw] flex overflow-x-scroll  '
             if(id%2===0){
-                Productsdiv.className+='bg-yellow-100 dark:bg-black'
+                Productsdiv.className+='bg-yellow-100 dark:bg-gray-800'
             }
             section.products.forEach(product => {
                 const productCard = document.createElement('div');
-                productCard.className = "card min-w-[250px]  m-2 border border-black dark:border-white p-2 rounded-lg ";
+                productCard.className = "flex flex-col justify-between  card min-w-[250px]  m-2 border border-black dark:border-white p-2 rounded-lg bg-white dark:bg-black";
 
                 productCard.innerHTML = `
+    <ul class="flex-1 flex flex-col">
+        <div>
+            <li class="mouse photo">
+                <img src="${product.image}" alt="IMG NOT AVAILABLE" class="rounded-lg border w-[200px] h-[150px] m-auto photo object-contain bg-white">
+            </li>
+            <li class="font-semibold text-sm">${product.name}</li>
+            <li class="text-xl">Rs ${product.price}</li>
+            <li class="font-mono text-[0.8em]">Volume Pricing Available</li>
+            <li class="seeSize mouse">See Size Chart</li>
+            <li class="mouse ">${product.size}</li>
+            <li class="hidden description">${product.description}</li>
+            <li class="hidden highlights">
                 <ul>
-                    <li class="mouse photo"><img src="${product.image}" alt="IMG NOT AVILABLE" srcset="" class="rounded-lg border w-[200px] h-[150px] m-auto photo object-contain bg-white">
-                    </li>
-                    <li class="font-semibold text-sm">${product.name}</li>
-                    <li class="text-xl">${product.price}</li>
-                    <li class="font-mono text-[0.8em]">Volume Pricing Available</li>
-                    <li class="seeSize mouse">See Size Chart</li>
-                    <li class="mouse">${product.size}</li>
-                    <li class="mx-8">
-                    <ul class="flex border justify-around items-center">
-                        <li class="minus font-semibold text-3xl mouse">-</li>
-                        <li class="value font-semibold text-xl">0</li>
-                        <li class="plus font-semibold text-2xl mouse">+</li>
-                    </ul>
-                    </li>
-                    <li class="hidden description">${product.description}</li>
-
-                    <li class="hidden highlights">
-                    <ul>
-                        ${Array.isArray(product.highlights)
-                                            ? product.highlights.map(item => `<li>${item}</li>`).join(' ')
-                                            : '<li>No highlights available</li>'}
-                    </ul>
-                    </li>
-
-                    <li class="hidden specifications">
-                    <ul>
-                        ${product.specifications
-                                            ? Object.entries(product.specifications).map(([key, val]) => `<li><strong>${key}:</strong> ${val}</li>`).join('')
-                                            : '<li>No specifications available</li>'}
-                    </ul>
-                    </li>
-
+                    ${Array.isArray(product.highlights)
+                        ? product.highlights.map(item => `<li>${item}</li>`).join(' ')
+                        : '<li>No highlights available</li>'}
                 </ul>
-                `
+            </li>
+            <li class="hidden specifications">
+                <ul>
+                    ${product.specifications
+                        ? Object.entries(product.specifications).map(([key, val]) => `<li><strong>${key}:</strong> ${val}</li>`).join('')
+                        : '<li>No specifications available</li>'}
+                </ul>
+            </li>
+        </div>
+
+        <!-- 👇 Sizechart forced to bottom using mt-auto -->
+        <li class="mx-6 border border-black dark:border-white rounded-xl sizechart mt-auto">
+            <ul class="flex justify-around items-center">
+                <li class="minus font-semibold text-3xl mouse border hover:bg-yellow-300 dark:hover:bg-slate-700 border-black dark:border-white rounded-full px-4 my-1">-</li>
+                <li class="value font-semibold text-xl">0</li>
+                <li class="plus font-semibold text-2xl mouse border hover:bg-yellow-300 dark:hover:bg-slate-700 border-black dark:border-white rounded-full px-4 my-1">+</li>
+            </ul>
+        </li>
+    </ul>
+`;
+
                 Productsdiv.appendChild(productCard);
             })
             categoryDiv.appendChild(Productsdiv)
