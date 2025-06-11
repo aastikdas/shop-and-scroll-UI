@@ -5,7 +5,7 @@ fetch('product.json')
         const mainContainer = document.querySelector('.main-container');
         categories.forEach((section, id) => {
             //create a seciton
-
+            
             const categoryDiv = document.createElement('div');
             categoryDiv.className = 'category-section h-fit ';
 
@@ -19,10 +19,12 @@ fetch('product.json')
 
             const Productsdiv = document.createElement('div');
             Productsdiv.className = 'productDiv flex overflow-x-scroll w-full  '
-
+            if(id%2===0){
+                Productsdiv.className+='bg-yellow-100 dark:bg-black'
+            }
             section.products.forEach(product => {
                 const productCard = document.createElement('div');
-                productCard.className = "card min-w-[250px]  m-2 border p-2 rounded-lg ";
+                productCard.className = "card min-w-[250px]  m-2 border border-black dark:border-white p-2 rounded-lg ";
 
                 productCard.innerHTML = `
                 <ul>
@@ -157,8 +159,7 @@ document.querySelector('.toggle-btn-on').addEventListener("click", () => {
     document.querySelector('.toggle-btn-on').classList.add('hidden')
     document.querySelector('.toggle-btn-off').classList.remove('hidden')
     document.querySelector('.toggle-btn-off').classList.add('block')
-    document.body.style.backgroundColor = "black"
-    document.body.style.color = "white"
+    document.documentElement.classList.add('dark')
 })
 document.querySelector('.toggle-btn-off').addEventListener("click", () => {
     // console.log('clicl')
@@ -166,6 +167,5 @@ document.querySelector('.toggle-btn-off').addEventListener("click", () => {
     document.querySelector('.toggle-btn-off').classList.add('hidden')
     document.querySelector('.toggle-btn-on').classList.remove('hidden')
     document.querySelector('.toggle-btn-on').classList.add('block')
-    document.body.style.backgroundColor = "white"
-    document.body.style.color = "black"
+    document.documentElement.classList.remove('dark')
 })
